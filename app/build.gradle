@@ -68,4 +68,5 @@ dependencies {
     implementation "com.bigkoo:alertview:1.0.3"
     implementation "com.blankj:utilcode:+"
     implementation "com.amap.api:location:latest.integration"
+    implementation "com.tbruyelle.rxpermissions2:rxpermissions:0.9.3@aar"
 }

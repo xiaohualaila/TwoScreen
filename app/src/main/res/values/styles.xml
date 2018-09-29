@@ -13,4 +13,16 @@
         <item name="android:windowBackground">@android:color/transparent</item>
         <!-- 默认是有阴影背景的,加以下属性可以改变阴影度阴影 -->
     </style>
+    <style name="MyDialog_pro" parent="android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@android:color/transparent</item>
+    </style>
+    <style name="loading_l" parent="@android:style/Widget.ProgressBar.Small">
+        <item name="android:indeterminateDrawable">@drawable/imofan_round_progress_bar_1</item>
+    </style>
+
 </resources>
