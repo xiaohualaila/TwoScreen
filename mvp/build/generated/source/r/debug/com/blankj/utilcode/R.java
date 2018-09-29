@@ -7,9 +7,6 @@
 package com.blankj.utilcode;
 
 public final class R {
-    public static final class layout {
-        public static int toast_xiaomi = 0x7f0f0048;
-    }
     public static final class style {
         public static int ActivityTranslucent = 0x7f160001;
     }

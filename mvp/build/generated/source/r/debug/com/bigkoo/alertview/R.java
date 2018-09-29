@@ -8,10 +8,10 @@ package com.bigkoo.alertview;
 
 public final class R {
     public static final class anim {
-        public static int fade_in_center = 0x7f010011;
-        public static int fade_out_center = 0x7f010012;
-        public static int slide_in_bottom = 0x7f010013;
-        public static int slide_out_bottom = 0x7f010014;
+        public static int fade_in_center = 0x7f01000b;
+        public static int fade_out_center = 0x7f01000c;
+        public static int slide_in_bottom = 0x7f01000d;
+        public static int slide_out_bottom = 0x7f01000e;
     }
     public static final class color {
         public static int bgColor_actionsheet_cancel_nor = 0x7f06001f;
@@ -20,29 +20,29 @@ public final class R {
         public static int bgColor_alertview_alert_start = 0x7f060022;
         public static int bgColor_divier = 0x7f060023;
         public static int bgColor_overlay = 0x7f060024;
-        public static int textColor_actionsheet_msg = 0x7f060066;
-        public static int textColor_actionsheet_title = 0x7f060067;
-        public static int textColor_alert_button_cancel = 0x7f060068;
-        public static int textColor_alert_button_destructive = 0x7f060069;
-        public static int textColor_alert_button_others = 0x7f06006a;
-        public static int textColor_alert_msg = 0x7f06006b;
-        public static int textColor_alert_title = 0x7f06006c;
+        public static int textColor_actionsheet_msg = 0x7f06005c;
+        public static int textColor_actionsheet_title = 0x7f06005d;
+        public static int textColor_alert_button_cancel = 0x7f06005e;
+        public static int textColor_alert_button_destructive = 0x7f06005f;
+        public static int textColor_alert_button_others = 0x7f060060;
+        public static int textColor_alert_msg = 0x7f060061;
+        public static int textColor_alert_title = 0x7f060062;
     }
     public static final class dimen {
-        public static int height_actionsheet_title = 0x7f08006f;
-        public static int height_alert_button = 0x7f080070;
-        public static int height_alert_title = 0x7f080071;
-        public static int marginBottom_actionsheet_msg = 0x7f08007c;
-        public static int marginBottom_alert_msg = 0x7f08007d;
-        public static int margin_actionsheet_left_right = 0x7f08007e;
-        public static int margin_alert_left_right = 0x7f08007f;
-        public static int radius_alertview = 0x7f08008f;
-        public static int size_divier = 0x7f080090;
-        public static int textSize_actionsheet_msg = 0x7f080091;
-        public static int textSize_actionsheet_title = 0x7f080092;
-        public static int textSize_alert_button = 0x7f080093;
-        public static int textSize_alert_msg = 0x7f080094;
-        public static int textSize_alert_title = 0x7f080095;
+        public static int height_actionsheet_title = 0x7f080052;
+        public static int height_alert_button = 0x7f080053;
+        public static int height_alert_title = 0x7f080054;
+        public static int marginBottom_actionsheet_msg = 0x7f08005f;
+        public static int marginBottom_alert_msg = 0x7f080060;
+        public static int margin_actionsheet_left_right = 0x7f080061;
+        public static int margin_alert_left_right = 0x7f080062;
+        public static int radius_alertview = 0x7f080072;
+        public static int size_divier = 0x7f080073;
+        public static int textSize_actionsheet_msg = 0x7f080074;
+        public static int textSize_actionsheet_title = 0x7f080075;
+        public static int textSize_alert_button = 0x7f080076;
+        public static int textSize_alert_msg = 0x7f080077;
+        public static int textSize_alert_title = 0x7f080078;
     }
     public static final class drawable {
         public static int bg_actionsheet_cancel = 0x7f090060;
@@ -54,29 +54,29 @@ public final class R {
         public static int bg_alertview_alert = 0x7f090066;
     }
     public static final class id {
-        public static int alertButtonListView = 0x7f0c0039;
-        public static int content_container = 0x7f0c0049;
-        public static int loAlertButtons = 0x7f0c0071;
-        public static int loAlertHeader = 0x7f0c0072;
-        public static int outmost_container = 0x7f0c007e;
-        public static int tvAlert = 0x7f0c00b8;
-        public static int tvAlertCancel = 0x7f0c00b9;
-        public static int tvAlertMsg = 0x7f0c00ba;
-        public static int tvAlertTitle = 0x7f0c00bb;
-        public static int viewStubHorizontal = 0x7f0c00bf;
-        public static int viewStubVertical = 0x7f0c00c0;
+        public static int alertButtonListView = 0x7f0c0032;
+        public static int content_container = 0x7f0c003d;
+        public static int loAlertButtons = 0x7f0c0058;
+        public static int loAlertHeader = 0x7f0c0059;
+        public static int outmost_container = 0x7f0c0063;
+        public static int tvAlert = 0x7f0c0093;
+        public static int tvAlertCancel = 0x7f0c0094;
+        public static int tvAlertMsg = 0x7f0c0095;
+        public static int tvAlertTitle = 0x7f0c0096;
+        public static int viewStubHorizontal = 0x7f0c009a;
+        public static int viewStubVertical = 0x7f0c009b;
     }
     public static final class integer {
         public static int animation_default_duration = 0x7f0d0004;
     }
     public static final class layout {
-        public static int include_alertheader = 0x7f0f0028;
-        public static int item_alertbutton = 0x7f0f0029;
-        public static int layout_alertview = 0x7f0f002a;
-        public static int layout_alertview_actionsheet = 0x7f0f002b;
-        public static int layout_alertview_alert = 0x7f0f002c;
-        public static int layout_alertview_alert_horizontal = 0x7f0f002d;
-        public static int layout_alertview_alert_vertical = 0x7f0f002e;
+        public static int include_alertheader = 0x7f0f001c;
+        public static int item_alertbutton = 0x7f0f001d;
+        public static int layout_alertview = 0x7f0f001e;
+        public static int layout_alertview_actionsheet = 0x7f0f001f;
+        public static int layout_alertview_alert = 0x7f0f0020;
+        public static int layout_alertview_alert_horizontal = 0x7f0f0021;
+        public static int layout_alertview_alert_vertical = 0x7f0f0022;
     }
     public static final class string {
         public static int app_name = 0x7f150020;
